@@ -1,0 +1,19 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Auto-downloaded models
+CourtSide-Computer-Vision-v1/
+
+# Generated output
+captures/
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+.ipynb_checkpoints/
+*.zip
